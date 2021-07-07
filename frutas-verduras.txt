@@ -1,0 +1,13 @@
+//Archivo creado en GitHub
+
+Frutas:
+1. Mango
+2. Fresa
+3. Papaya
+4. Pera
+
+Verduras:
+1. Zanahoria
+2. Lechuga
+3. Repollo
+4. Col
