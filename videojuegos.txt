@@ -1,0 +1,8 @@
+//Este archivo se creó en una rama diferente a la principal.
+
+Lista:
+1. Halo
+2. Gears of War
+3. League of Legends
+4. Mario Kart
+5. Smash Bros
