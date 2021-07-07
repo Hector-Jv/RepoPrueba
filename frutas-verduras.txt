@@ -5,9 +5,13 @@ Frutas:
 2. Fresa
 3. Papaya
 4. Pera
+5. Uva
+6. Zarzamora
 
 Verduras:
 1. Zanahoria
 2. Lechuga
 3. Repollo
 4. Col
+5. Lechuga
+6. Cebolla
